@@ -1,2 +1,2 @@
 # touchless_info_point
-an archaeological info point build using unity and leap-motion control
+an interactive archaeological info point. build with unity and leap-motion control
